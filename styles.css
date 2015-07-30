@@ -1,0 +1,67 @@
+body,
+html {
+	min-height: 100%;
+}
+body {
+	background-image: url(Rtsmallbglogo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+ #name {
+
+ }
+
+ #main {
+ 	width: 1000px;
+ 	height: 600px;
+ 	margin: 75px auto;
+ 	border: solid 1px #CD5C5C;
+ 	text-align: center;
+}
+
+#nav {
+	background-color: transparent;
+	height: 50px;
+ 	text-align: center;
+ 	line-height: 50px;
+ 	display: block;
+}
+h1,
+h3 {
+	font-family: 'Orbitron', sans-serif;
+	color: #FAEBD7;
+	text-align: center;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #FAEBD7;
+}
+ul {
+	list-style-type: none;
+	color: #FAEBD7;
+}
+
+ul a {
+	padding-left: 30px;
+	padding-right: 30px;
+	text-decoration: none;
+	font-size: 20px;
+	color: yellow;
+
+}
+li {
+	display: inline;
+	text-align: center;
+}
+
+li a:hover {
+	background-color: ;
+}
+
+#sloganID {
+	font-style: italic;
+	color: #FAEBD7;
+} 

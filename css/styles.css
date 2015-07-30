@@ -1,0 +1,19 @@
+body {
+	background: #B22222;
+	text-align: center;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	color: red;
+}
+p {
+	font-family: 'Poiret One', cursive;
+	border: 2px solid red;
+}
+ul {
+	list-style-type: none;
+}
+
+#sloganID {
+	font-style: italic;
+}
